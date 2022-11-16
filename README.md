@@ -1,5 +1,3 @@
-# BirckBrecker
-
 package Demogame;
 
 
