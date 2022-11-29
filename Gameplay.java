@@ -13,10 +13,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-/**
- *
- * @author chinm
- */
+
 public class GamePlay extends JPanel implements KeyListener , ActionListener {
     
      private boolean play = false;
